@@ -1,3 +1,39 @@
-body{
-    background-color: aqua;
-}
+body {
+    background-color: lightblue;
+     }
+  img{
+      margin-top: 40px;
+      margin-right: 30px;
+      margin-bottom: 70px;
+      margin-left: 40px;
+      border-top: darkblue;
+      border-right: darkmagenta;
+      border-left: darkorange;
+      border-bottom: forestgreen;
+      border-style: groove;
+      border-width: 5pt;
+        }
+
+     p{
+         padding-left: 40px;
+         padding-right: 50px;
+         padding-top: 11px;
+         padding-bottom: 6px;
+        
+              }   
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  H2{
+      color: blueviolet;
+      text-align: center;
+  }
+
+  .button {
+    transition-duration: 10s;
+  }
+  
+  
+    
+    
