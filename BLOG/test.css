@@ -7,7 +7,7 @@ body {
 }
 
 #menudiv > a {
-  padding: 15px;
+  padding: 10px;
   text-decoration: none;
   color: #242333;
   margin: 0;
@@ -27,12 +27,8 @@ hr {
   border-bottom-width: thin;
 }
 .outerdiv {
-  width: 70px;;
+  width: 75%;
   margin: auto;
-  margin-top:5px ;
-  margin-bottom: 15px;
-  margin-left: 15px;
-  margin-right: 15px;
   padding-top: 30px;
 }
 
