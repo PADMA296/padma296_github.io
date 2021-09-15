@@ -1,16 +1,16 @@
 body{
-    background-color:cyan;color:darkblue;
+    background-color:blanchedalmond;
 }
 h1 {
     color:darkmagenta;
     text-align: center;
   }
   H2{
-      color:brown;text-align: center;
+      color:brown;text-align: left;
       font-size: 20px;
   }
   p{
-    font: size 10px;text-align: left;
+    font: size 10px;text-align: left;padding: 15px;
   }
 h3{
     font-style: italic;font-size: large;font-display:initial;color: mediumblue;
