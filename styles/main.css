@@ -9,8 +9,18 @@ p{
     color:black;
     font-size: 16px;
 }
-element style{
+.footer{
+  position: absolute;
   bottom: 32px;
-  align-items: center;
-  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+#contactdiv{
+  position: absolute;
+  bottom: 30px;
+  left: 10px;
+  right:0;
+  top: 0;
+
 }
