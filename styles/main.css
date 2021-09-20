@@ -9,3 +9,8 @@ p{
     color:black;
     font-size: 16px;
 }
+element style{
+  bottom: 32px;
+  align-items: center;
+  margin: auto;
+}
