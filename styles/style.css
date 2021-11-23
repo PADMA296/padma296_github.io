@@ -1,5 +1,23 @@
 body{
-    background-color:blanchedalmond;
+  background-color:blanchedalmond;
+}
+
+@media (max-width: 320px){
+  body{
+    background-color:rgb(235, 255, 161);
+  }
+}
+
+@media (max-width: 768px){
+  body{
+    background-color:rgb(240, 208, 255);
+  }
+}
+  
+@media (max-width: 1200px){
+  body{
+    background-color:rgb(195, 233, 245);
+  }
 }
 h1 {
     color:darkmagenta;
